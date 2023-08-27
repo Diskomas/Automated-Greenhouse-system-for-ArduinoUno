@@ -2,10 +2,6 @@
 
 This template should help set up and start using the system
 
-[Demonstration Video - Part 1](https://www.youtube.com/watch?v=btxUE5TKPLA)
-
-[Demonstration Video - Part 2](https://www.youtube.com/watch?v=Eg5XAr9ddW0)
-
 
 ## Arduino IDE Project Setup
 
